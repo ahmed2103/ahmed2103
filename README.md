@@ -19,9 +19,11 @@ I'm a Backend Developer with a unique background in dentistry. I love combining 
 
 1. **WeatherWise**: A weather application built with FastAPI and React. [Check it out!](https://github.com/ahmed2103/weatherwise)
 
-2. **AirBnB Clone**: A full-stack web application mimicking AirBnB's core features. [View project](https://github.com/ahmed2103/AirBnB_clone_v4)
+2. **AirBnB Clone**: A full-stack web application mimicking AirBnB's core features. [View project](https://github.com/ALX-SE-projects/AirBnB_clone_v4)
 
-3. **Simple Shell**: A basic UNIX command interpreter built in C. [Explore here](https://github.com/ahmed2103/simple_shell)
+3. **Simple Shell**: A basic UNIX command interpreter built in C. [Explore here](https://github.com/OMAREID0/simple_shell)
+
+4. **3SS**: collaborative E-learning app with graphql apollo and Express for rest file managing . [Explore here](https://github.com/hakra9/project_final_alx_backend)
 
 ## 🎓 Education
 
