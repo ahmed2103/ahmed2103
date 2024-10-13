@@ -16,14 +16,13 @@ I'm a Backend Developer with a unique background in dentistry. I love combining 
   ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 
 ## 🌟 Featured Projects
+1. **3SS**: collaborative E-learning app with graphql apollo and Express for rest file managing . [Explore here](https://github.com/hakra9/project_final_alx_backend)
 
-1. **WeatherWise**: A weather application built with FastAPI and React. [Check it out!](https://github.com/ahmed2103/weatherwise)
-
-2. **AirBnB Clone**: A full-stack web application mimicking AirBnB's core features. [View project](https://github.com/ALX-SE-projects/AirBnB_clone_v4)
+2. **WeatherWise**: A weather application built with FastAPI and React. [Check it out!](https://github.com/ahmed2103/weatherwise)
 
 3. **Simple Shell**: A basic UNIX command interpreter built in C. [Explore here](https://github.com/OMAREID0/simple_shell)
 
-4. **3SS**: collaborative E-learning app with graphql apollo and Express for rest file managing . [Explore here](https://github.com/hakra9/project_final_alx_backend)
+4. **AirBnB Clone**: A full-stack web application mimicking AirBnB's core features. [View project](https://github.com/ALX-SE-projects/AirBnB_clone_v4)
 
 ## 🎓 Education
 
