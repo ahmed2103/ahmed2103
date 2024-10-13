@@ -1,6 +1,6 @@
 # Hi there, I'm Ahmed Hasona! 👋
 
-![Ahmed Hasona](https://drive.google.com/uc?export=view&id=1e5jlw7qbh5Q-0UfU1QPh5-rAI5pTCfGr)
+![Ahmed Hasona](https://drive.google.com/uc?export=view&id=1Gc_vFrtEzNc9tpKkNK0CeOTeZN7ZvLrX)
 
 I'm a Backend Developer with a unique background in dentistry. I love combining my medical knowledge with cutting-edge technology to create innovative solutions.
 
